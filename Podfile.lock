@@ -1,0 +1,22 @@
+PODS:
+  - Handle (1.0.0)
+
+DEPENDENCIES:
+  - Handle (from `https://github.com/ribhu69/Handle.git`, commit `ba595ee335e03f2f70e0535478fa34389478bb03`)
+
+EXTERNAL SOURCES:
+  Handle:
+    :commit: ba595ee335e03f2f70e0535478fa34389478bb03
+    :git: https://github.com/ribhu69/Handle.git
+
+CHECKOUT OPTIONS:
+  Handle:
+    :commit: ba595ee335e03f2f70e0535478fa34389478bb03
+    :git: https://github.com/ribhu69/Handle.git
+
+SPEC CHECKSUMS:
+  Handle: ed0173e4e195c073ca8f570c649daaf6c44b2c75
+
+PODFILE CHECKSUM: af773c45f67df87ea216f351b4c5ac75a4c82fea
+
+COCOAPODS: 1.14.3
